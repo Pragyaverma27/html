@@ -1,0 +1,9 @@
+<htm>
+<form>
+<lablefor="fname">First Name:</lable>
+<input type="text"value="First Name" id="fname">
+
+<lable for="lname"> last Name: </lable>
+<input type ="Text" value="Last Name" id="lname">
+</form>
+</html>
